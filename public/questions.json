@@ -1,0 +1,28 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "questionText": "What is the port number for https?",
+        "options": ["80", "443", "25", "15"],
+        "correctOption": "443"
+      },
+      {
+        "id": 2,
+        "questionText": "What is the command to check the remote interface info in Cisco?",
+        "options": ["sh cdp neighbor", "sh cdp remote", "sh ip int br", "sh lacp neighbor"],
+        "correctOption": "sh cdp neighbor"
+      },
+      {
+        "id": 3,
+        "questionText": ["What is the command for checking the routes in your rib"],
+        "options":["sh ip eigrp", "sh ip bgp", "sh ip route", "traceroute"],
+        "correctOption": "sh ip route"
+      }
+
+
+      ]
+        
+      }
+    
+    
+  

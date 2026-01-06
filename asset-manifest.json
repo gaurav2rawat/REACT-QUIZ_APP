@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/REACT-QUIZ_APP/static/css/main.f4eca916.css",
-    "main.js": "/REACT-QUIZ_APP/static/js/main.7d0e324d.js",
-    "static/js/787.44458aef.chunk.js": "/REACT-QUIZ_APP/static/js/787.44458aef.chunk.js",
-    "index.html": "/REACT-QUIZ_APP/index.html",
-    "main.f4eca916.css.map": "/REACT-QUIZ_APP/static/css/main.f4eca916.css.map",
-    "main.7d0e324d.js.map": "/REACT-QUIZ_APP/static/js/main.7d0e324d.js.map",
-    "787.44458aef.chunk.js.map": "/REACT-QUIZ_APP/static/js/787.44458aef.chunk.js.map"
+    "main.css": "/gaurav2rawat.github.io/static/css/main.f4eca916.css",
+    "main.js": "/gaurav2rawat.github.io/static/js/main.53183881.js",
+    "static/js/787.44458aef.chunk.js": "/gaurav2rawat.github.io/static/js/787.44458aef.chunk.js",
+    "index.html": "/gaurav2rawat.github.io/index.html",
+    "main.f4eca916.css.map": "/gaurav2rawat.github.io/static/css/main.f4eca916.css.map",
+    "main.53183881.js.map": "/gaurav2rawat.github.io/static/js/main.53183881.js.map",
+    "787.44458aef.chunk.js.map": "/gaurav2rawat.github.io/static/js/787.44458aef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4eca916.css",
-    "static/js/main.7d0e324d.js"
+    "static/js/main.53183881.js"
   ]
 }
